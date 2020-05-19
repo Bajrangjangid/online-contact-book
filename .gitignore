@@ -1,0 +1,13 @@
+Thumbs.db
+.DS_Store
+.gradle
+build/
+binary/
+out/
+.idea
+*.iml
+*.ipr
+*.iwsg
+.project
+.settings
+.classpath
